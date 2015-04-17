@@ -1,5 +1,5 @@
-from thefuck.main import Command
-from thefuck.rules.sudo import match, get_new_command
+from thefudge.main import Command
+from thefudge.rules.sudo import match, get_new_command
 
 
 def test_match():
